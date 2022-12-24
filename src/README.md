@@ -3,7 +3,7 @@
 2. __Primary backend code is APP.js (NODE.JS), located in the backend repo__
 
 * This is the simplest app we could come up with
-  * see collaborators
+  * see collaborators for both repos
 * its intention was to introduce the basics of full stack development using React and Node Javascript.
 * This app accepts text through an input box and submit button.     
 * The front end code tracks data in the input box and sends submitted fields to the backend server.
